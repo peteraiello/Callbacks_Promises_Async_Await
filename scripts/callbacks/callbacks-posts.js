@@ -55,7 +55,9 @@ function callbackExample() {
             console.log(titleElem);
         }, 1000);
     }
+
     getPosts(posts, updatePosts);
+    
 }
 
 callbackExample();
